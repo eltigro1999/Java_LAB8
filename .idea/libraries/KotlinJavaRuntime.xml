@@ -1,0 +1,27 @@
+<component name="libraryTable">
+  <library name="KotlinJavaRuntime">
+    <CLASSES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab8/javax.mail-api-1.6.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/production/Lab8/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/activation.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/docs/javadocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-stdlib-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-reflect-sources.jar!/" />
+      <root url="jar://$KOTLIN_BUNDLED$/lib/kotlin-test-sources.jar!/" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo/client" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo/logging" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo/outlook" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo/servlet" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo/webapp/src/classes" />
+      <root url="file://D:/Программирование/Mail lib for Java/javamail1_4_5/javamail-1.4.5/demo/webapp/src/taglib" />
+    </SOURCES>
+  </library>
+</component>
